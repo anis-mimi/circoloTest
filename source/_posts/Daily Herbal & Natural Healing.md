@@ -2,9 +2,10 @@
 title: Daily Herbal & Natural Healing
 date: 2018-9-07 20:46:00
 category: There are more Mystic & Natural Herbs
+tags:
+	- Healthy tips
+thumbnail: /images/7.jpg
 ---
-
-![](/images/7.jpg)
 
 ## Natural Treatments for Curing Bad Breath
 

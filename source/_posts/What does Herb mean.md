@@ -2,9 +2,10 @@
 title: What does Herb mean?
 date: 2018-8-11 20:38:00
 category: Definition
+tags:
+	- Intro
+thumbnail: /images/1.jpg
 ---
-
-![](/images/1.jpg)
 
 Herbs will be the usable parts of herbaceous plants (crops that lack a good woody stem). The word herb most often refers to those which have culinary, aesthetic, or medicinal uses. The culinary uses of herbal remedies will be what differentiates them from spices.
 

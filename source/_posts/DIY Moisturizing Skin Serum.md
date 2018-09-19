@@ -2,9 +2,11 @@
 title: DIY Moisturizing Skin Serum
 date: 2018-8-24 20:44:00
 category: Do-It-Yourself Herbs
+tags:
+	- Do-It-Yourself
+	- Beauty
+thumbnail: /images/6.jpg
 ---
-
-![](/images/6.jpg)
 
 Growing up, I was fed the wonder myth that oily pores and skin is undesirable. The cosmetics sector pushes the utilization of severe, drying soaps and goods that strip oils to support you remove shine. However, those natural oils actually support moisturise your skin layer. Washing them aside can lead to overly dry skin, rather than soft and supple epidermis. Really what you want is skin-loving oils just like the serum recipe below paired with a nice, gentle astringent like Wild Rose Facial Toner or Rose Hydrosol for a balanced regimen.
 

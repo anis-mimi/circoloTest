@@ -2,9 +2,10 @@
 title: A Brief History of Herbs
 date: 2018-9-17 20:39:00
 category: Why Use Herbs?
+tags:
+	- Intro
+thumbnail: /images/3.jpg
 ---
-
-![](/images/3.jpg)
 
 One of the oldest herbs ever sold is the popular Ginkgo biloba. Fossil information show that Ginkgo features been on the planet at least because the Paleozoic period.
 

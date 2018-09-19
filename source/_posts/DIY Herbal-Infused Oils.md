@@ -2,9 +2,11 @@
 title: DIY Herbal-Infused Oils
 date: 2018-8-31 20:41:00
 category: Do-It-Yourself Herbs
+tags:
+	- Do-It-Yourself
+	- Healthy tips
+thumbnail: /images/4.jpg
 ---
-
-![](/images/4.jpg)
 
 ## Folk Way For Solar-infused Oils
 

@@ -2,9 +2,11 @@
 title: DIY Leave-in Conditioner Hair Serum
 date: 2018-8-29 20:43:00
 category: Do-It-Yourself Herbs
+tags:
+	- Do-It-Yourself
+	- Beauty
+thumbnail: /images/5.jpg
 ---
-
-![](/images/5.jpg)
 
 ## How To Make Ypur Hair Moisture
 

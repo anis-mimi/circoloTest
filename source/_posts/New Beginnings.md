@@ -2,9 +2,11 @@
 title: New Beginnings
 date: 2018-8-17 20:40:00
 category: A Journey into Herbal & Natural Healing
+tags:
+	- Intro
+	- New
+thumbnail: /images/2.jpg
 ---
-
-![](/images/2.jpg)
 
 First, I would like to apologize… it’s been a very long time since I've posted on this blog… I’ve been tangled up with starting and growing another business.
 

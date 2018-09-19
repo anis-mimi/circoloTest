@@ -2,9 +2,10 @@
 title: Herbal Aphrodisiacs
 date: 2018-8-21 20:48:00
 category: There are more Mystic & Natural Herbs
+tags:
+	- Type of plant
+thumbnail: /images/8.jpg
 ---
-
-![](/images/8.jpg)
 
 Natural herbs and spices have already been used throughout background seeing as aphrodisiacs. Aphrodisiacs are thought as a substance thought to arouse sexual desire; the name being produced from the Greek goddess of sensuality, splendour and love, Aphrodite.
 
